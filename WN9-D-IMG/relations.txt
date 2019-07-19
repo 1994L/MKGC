@@ -1,0 +1,9 @@
+_derivationally_related_form
+_member_meronym
+_has_part
+_member_holonym
+_part_of
+_hyponym
+_member_of_domain_topic
+_hypernym
+_synset_domain_topic_of
