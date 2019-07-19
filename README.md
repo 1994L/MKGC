@@ -1,1 +1,1 @@
-# MKGC-Multi-model-Knowledge-Graphs-Completion
+# MKGC-Multimodal-Knowledge-Graphs-Completion
